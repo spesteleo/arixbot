@@ -1,0 +1,2 @@
+# arixbot
+AriX Bot!
